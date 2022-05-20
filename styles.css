@@ -1,0 +1,83 @@
+* { 
+    font-family: oblique bold 120% cursive;
+    text-align: center;
+    color:purple
+}
+   
+p {
+    color: black;
+    text-align: center;
+}
+
+h1 {
+    color:purple;
+    margin-top:20px;
+    margin-left:350px;
+    margin-right:350px;
+    text-shadow:1px 2px 4px #00FFFF;
+    font-family:Comic Sans;
+    font-size:40px;
+}
+h2 {
+    color:#FFA500;
+    text-align:left
+    text-decoration:underline;
+    text-shadow:-1px 2px 1px #000;
+    font-family:Georgia;
+    font-size:35px;
+}
+
+h3 {
+    color:#9400D3;
+    text-align: Center
+    text-decoration: underline;
+}
+h4 {
+    color:#9400D3;
+    text-align: center
+    text-decoration: underline;
+}
+h5 {
+    color:teal;
+    text-align: center
+    text-decoration: underline;
+    font-size:30px;
+    text-shadow:-1px 2px 3px green;
+}
+
+main {
+    background:	#E0FFFF;
+    margin:5em auto;
+    margin-top:20px;
+    margin-left:150px;
+    margin-right:150px;
+}  
+   
+#contacto {
+    margin-top:20px;
+    margin-left:150px;
+    margin-right:150px;
+    font-family:Comic Sans #FFF8DC;
+    font-size:20px;
+    text-align:center;
+    background:#808080; 
+}
+
+#datos {
+    color: #FFF8DC;
+    font-size:20px;
+    font-style: cursive;
+}
+   
+.logo { 
+  border-radius:15% 30% 15% 30%;
+  transition: opacity .15s ease
+}
+
+.buscamos{
+    color: black;
+    margin-top:5px;
+    margin-left:300px;
+    margin-right:300px;
+    text-align:left ;
+}

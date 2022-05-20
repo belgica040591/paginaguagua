@@ -1,0 +1,37 @@
+* {
+ margin:0;
+ padding:0;
+}
+
+h1 {
+  font-size: 26px;
+  border-width:6px;
+  border-style:double;
+  border-color:Indigo;
+  Color:Indigo;
+  margin-top:50px;
+  margin-left:350px;
+  margin-right:350px;
+  text-shadow:1px 2px 3px #000;
+  font-family:Garamond;
+  
+}
+
+div {
+  margin-top:50px;
+  margin-left:400px;
+  margin-right:400px;
+  border-style:inset;
+  border-color:black;
+  padding: 10px 10px 10px 10px;
+  background-color:white; 
+  font-family:Garamond;
+   
+}
+
+p {
+  font-family:Garamond;
+  Color:#8B008B;
+  font-size:22px;
+  
+}
